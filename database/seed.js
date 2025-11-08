@@ -76,6 +76,7 @@ const sampleTracks = [
         releaseYear: 1966
     },
     {
+        songTitle: "Hey Jude",
         artistName: "The Beatles",
         albumName: "Past Masters",
         genre: "Rock",
